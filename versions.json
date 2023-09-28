@@ -2,6 +2,11 @@
 		"title": "Language contact",
 		"authors": [{"name": "Rik van Gijn"}, {"name": "Hanna Ruch"}, {"name": "Max Wahlström"}, {"name": "Anja Hasse"}],
 	"license": "CC-BY-4.0",
+	"publishedAt": "2023-01-19T14:00:00.000Z"},
+	{"versiontype": "first_edition",
+		"title": "Language contact",
+		"authors": [{"name": "Rik van Gijn"}, {"name": "Hanna Ruch"}, {"name": "Max Wahlström"}, {"name": "Anja Hasse"}],
+	"license": "CC-BY-4.0",
 	"publishedAt": "2023-01-19T14:00:00.000Z"}
 	]
 }
